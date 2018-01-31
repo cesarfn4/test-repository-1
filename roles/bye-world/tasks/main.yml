@@ -1,0 +1,4 @@
+---
+- name: Bye Message
+  debug:
+    msg: "Bye World!"
