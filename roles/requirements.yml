@@ -1,4 +1,3 @@
 ---
-- name: nginx
-  src: https://github.com/Stouts/Stouts.nginx
-  scm: git
+- src: https://github.com/Stouts/Stouts.nginx.git
+  name: nginx
