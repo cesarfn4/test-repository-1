@@ -1,0 +1,7 @@
+---
+- name: Call Galaxy role
+  hosts: all
+  
+  tasks:
+    - import_role:
+        name: nginx_role
