@@ -1,4 +1,4 @@
 ---
-- src: https://github.com/bennojoy/nginx 
+- src: https://github.com/cesarfn4/ntp
   version: master 
-  name: nginx_role 
+  name: ntp_role 
