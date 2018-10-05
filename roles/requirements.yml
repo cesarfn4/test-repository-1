@@ -1,0 +1,4 @@
+---
+- name: nginx
+  src: https://github.com/Stouts/Stouts.nginx
+  scm: git
