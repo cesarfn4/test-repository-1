@@ -1,4 +1,4 @@
 ---
-- src: https://github.com/cesarfn4/ntp
+- src: git+https://github.com/cesarfn4/ntp
   version: master 
   name: ntp_role 
