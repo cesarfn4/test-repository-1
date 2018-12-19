@@ -1,4 +1,5 @@
 ---
-- src: git+https://github.com/cesarfn4/ntp
-  version: master 
-  name: ntp_role 
+  name: ntp
+  src: git+https://gitlab.com/john/ntp-role.git
+  scm: git
+
