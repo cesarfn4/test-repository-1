@@ -1,0 +1,9 @@
+---
+
+  - import_tasks: samba_permissions.yml
+    tags: hello-world
+   
+  - name: handler "exec vas temp passwd"
+    debug:
+    changed_when: true
+    notify: exec vas temp passwd
