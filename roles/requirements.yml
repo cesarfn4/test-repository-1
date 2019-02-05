@@ -1,5 +1,5 @@
 ---
   name: ntp
-  src: git+https://gitlab.com/john/ntp-role.git
+  src: https://github.com/cesarfn4/ntp.git
   scm: git
 
