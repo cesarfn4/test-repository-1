@@ -1,5 +1,0 @@
----
-  name: ntp
-  src: https://github.com/cesarfn4/ntp.git
-  scm: git
-
