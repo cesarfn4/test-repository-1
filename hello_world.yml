@@ -9,4 +9,4 @@
     - name: Hello Message 
       debug:
         msg: "Hello Pepe!"
-      delegate_to: tower
+      delegate_to: ansible-tower-4
