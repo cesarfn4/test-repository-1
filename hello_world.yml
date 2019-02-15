@@ -9,4 +9,4 @@
     - name: Hello Message 
       debug:
         msg: "Hello Pepe!"
-      delegate_to: 127.0.0.1
+      delegate_to: tower
