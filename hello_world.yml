@@ -6,3 +6,7 @@
       debug:
         msg: "Hello World!"
 
+    - name: Hello Message 
+      debug:
+        msg: "Hello Pepe!"
+      delegate_to: 127.0.0.1
