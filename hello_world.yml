@@ -8,5 +8,5 @@
 
     - name: Hello Message 
       debug:
-        msg: "Hello Pepe!"
+        msg: "Hello AXA!"
       delegate_to: ansible-tower-4
